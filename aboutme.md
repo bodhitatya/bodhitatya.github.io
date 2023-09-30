@@ -1,6 +1,6 @@
 ---
 layout: page
-title: **Bodhi Shuddhaanandaa Brahmachari**
+title: Bodhi Shuddhaanandaa Brahmachari
 
 subtitle: About Bodhi
 ---
