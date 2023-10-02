@@ -1,90 +1,41 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: What ever you give to poor and neglected, I shall receive it” ~~ Baba Lokenath
+subtitle: Baba Lokenath
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: Baba Lokenath
 comments: true
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+“If ever you feel a sense of gratitude toward me, do give me some alms. Whatever you give to the poor, the neglected, the downtrodden brethren of yours with love, I shall receive it.” As the words ended and Baba’s divine body became still, his eyes remained wide open, but he was lost in the world beyond.
 
-**Here is some bold text**
+This teaching episode not only sheds light on the aspect of Baba’s All Knowing Self, but also on the ideal of service to humanity as service to God. “Whatever
 
-## Here is a secondary heading
+you offer, with love, to the poor and needy, I shall receive it.” Baba’s words echo the profound words of Jesus:
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+“Come ye blessed of may Father, inherit the kingdom prepared for you from the foundation of the world: For I was hungry, and ye gave me meat; I was
 
-Here's a table:
+thirsty, and ye gave me drink; I was a stranger, and ye took me in; Naked, and ye clothed me; I was sick and ye visited me; I was in prison and ye came unto
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Me.
 
-How about a yummy crepe?
+“.. verily I say unto you, inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.” (Matthew: 25.34)
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+Both Baba and Jesus were teaching the same lesson when they spoke these words. The one who gives should always be conscious that the true recipient of
 
-It can also be centered!
+his gift is the Lord who resides in the hearts of all. Because Baba and Jesus are not separate from God they exist within all living things. Therefore, they taught
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+that when love and devotion can be expressed through loving service to those who are in need, it is always the Lord who is pleased. All actions are divine
 
-Here's a code chunk:
+actions once they are performed with a sincere wish to serve God. The quintessence of karma yoga is expressed in Baba’s word, “Serve, but serve consciously.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+Forget not the Doer as well as the Receiver of all actions.”
 
-And here is the same code with syntax highlighting:
+Baba warned the young man not to get drunk with power. This is precisely what happens with most people in authority. It is no small wonder that the plight
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+of the neglected and illiterate remains unchanged. Power corrupts; absolute power corrupts absolutely. Baba only wanted to forewarn that power is a gift of
 
-And here is the same code yet again but with line numbers:
+the Divine, and prudent person should utilize it for the betterment of his fellowmen. Service to humanity is the path through which one can be released from
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+the bondage of Karma. It is the path of purification and leads to a state of egoless bliss.
