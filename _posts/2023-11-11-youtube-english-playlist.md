@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [video talk english, bodhi english talk]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXpnCiWH6eLWsQmeKB56z2aVBOq50sMyD" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdGG58iVBb4FIL2VgzN4xIrGBKEjfKTBE" frameborder="0" allowfullscreen></iframe>
