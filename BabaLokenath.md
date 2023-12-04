@@ -10,7 +10,7 @@ Baba Lokenath Brahmachari was born as the fourth child, to Kamala Devi & Ramnara
 However, divine phenomena occurred during the birth of her fourth child which persuaded her to willingly dedicate it to God ! 
 
 <p align="center">
-  <img src="/assets/img/thumb.png" />
+  <img src="/assets/img/BabaLokenath.jpeg" />
 </p>
 
 
